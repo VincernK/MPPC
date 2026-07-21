@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+*.tsbuildinfo
+
+# Editor / IDE
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# Local Claude settings (session-specific, not project config)
+.claude/settings.local.json
